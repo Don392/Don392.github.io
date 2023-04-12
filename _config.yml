@@ -244,6 +244,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _honors
+  - scope:
+      path: ""
+      type: honors
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
