@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhicheng DENG"
   avatar           : "profile.jpg"
-  bio              : "A Master Student @PKU"
-  location         : "2199 Lishui Road, Shenzhen"
+  bio              : "A Master's Student @PKU"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=zhicheng+deng"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=si9Lo8wAAAAJ&hl=en"
   email            : "zhichengdeng711@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhicheng-Deng-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
