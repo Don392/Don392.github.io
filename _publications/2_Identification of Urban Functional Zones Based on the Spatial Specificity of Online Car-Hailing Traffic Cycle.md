@@ -1,7 +1,7 @@
 ---
 title: "Identification of Urban Functional Zones Based on the Spatial Specificity of Online Car-Hailing Traffic Cycle"
 collection: publications
-permalink: /publication/2.Identification of Urban Functional Zones Based on the Spatial Specificity of Online Car-Hailing Traffic Cycle
+permalink: /publication/2_Identification of Urban Functional Zones Based on the Spatial Specificity of Online Car-Hailing Traffic Cycle
 excerpt: 'Measure the periodic specificity of flow data and provide a new potential perspective for the identification of urban functional zones.'
 date: 2022-08-01
 venue: 'ISPRS International Journal of Geo-Information'
