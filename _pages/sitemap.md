@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
@@ -34,4 +34,18 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
+
+---
+layout: archive
+title: "Sitemap"
+permalink: /sitemap/
+author_profile: true
+---
+
+<h2>Pages</h2>
+<ul>
+  <li><a href="/publications/">Publications</a></li>
+  <li><a href="/projects/">Projects</a></li>
+  <li><a href="/cv/">CV</a></li>
+</ul>
