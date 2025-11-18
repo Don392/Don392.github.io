@@ -10,10 +10,9 @@ author_profile: true
 (* indicates the corresponding author, ¹ indicates the co-first authors.) -->
 {% include base_path %}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
