@@ -28,7 +28,26 @@ layout: compress
     {% include scripts.html %}
 
     {% if page.url == "/" %}
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=8HGCn3iMPfwquvnOOAHN9RVIv-207_Sxnna8pS0RSFE"></script>
+    <style>
+      /* 缩小 clustrmaps 地球仪的尺寸并居中显示 */
+      #clustrmaps-widget-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 2em;
+        margin-bottom: 2em;
+      }
+      #clstr_globe {
+        width: 180px !important;
+        height: 180px !important;
+        min-width: unset !important;
+        min-height: unset !important;
+        max-width: 200px !important;
+        max-height: 200px !important;
+      }
+    </style>
+    <div id="clustrmaps-widget-container">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=8HGCn3iMPfwquvnOOAHN9RVIv-207_Sxnna8pS0RSFE"></script>
+    </div>
     {% endif %}
     
   </body>
