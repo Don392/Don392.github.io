@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am currently a master's student at the School of Urban Planning and Design, Peking University, majoring in Geography (Smart Cities and Big Data) under the supervision of Dr. [Zhaoya Gong](https://urban.pkusz.edu.cn/info/1013/2801.htm). I earned my Bachelor's degree in Geographical Information Science from Nanjing Normal University in 2023 under the supervision of Prof. [Linwang Yuan](https://dky.njnu.edu.cn/info/1228/3883.htm) and [Zhaoyuan Yu](https://dky.njnu.edu.cn/info/1228/5207.htm), including an exchange to the Department of Land Surveying and Geo-Informatics of Hong Kong Polytechnic University in 2021.
+I am currently a master's student at the School of Urban Planning and Design, Peking University, majoring in Geography (Smart Cities and Big Data) under the supervision of Dr. [Zhaoya Gong](https://urban.pkusz.edu.cn/info/1013/2801.htm) and Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I earned my Bachelor's degree in Geographical Information Science from Nanjing Normal University in 2023 under the supervision of Prof. [Linwang Yuan](https://dky.njnu.edu.cn/info/1228/3883.htm) and [Zhaoyuan Yu](https://dky.njnu.edu.cn/info/1228/5207.htm), including an exchange to the Department of Land Surveying and Geo-Informatics of Hong Kong Polytechnic University in 2021.
 
 # Research Interests
 * GIScience

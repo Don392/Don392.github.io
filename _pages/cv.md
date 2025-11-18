@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my CV [here](http://don392.github.io/files/AcademicCV_Zhicheng_DENG.pdf).
+Please download my CV [here](http://don392.github.io/files/Academic_CV_Zhicheng_DENG.pdf).

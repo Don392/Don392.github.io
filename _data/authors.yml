@@ -1,18 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Zhicheng Deng:
+  name        : "Zhicheng DENG"
+  uri         : "https://don392.github.io"
+  email       : "zhichengdeng711@gmail.com"
+  bio         : "A Master's Student @PKU"
+  avatar      : "photo.png"
+  googlescholar: "https://scholar.google.com/citations?user=si9Lo8wAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Zhicheng-Deng-3"
+  github      : "Don392"
+  orcid       : "https://orcid.org/0000-0002-7848-3976"
+  linkedin    : "https://www.linkedin.com/in/zhicheng-deng-b84081371/"
