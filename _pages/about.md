@@ -12,13 +12,20 @@ About me
 ======
 I am currently a master's student at the School of Urban Planning and Design, Peking University, majoring in Geography (Smart Cities and Big Data) under the supervision of Dr. [Zhaoya Gong](https://urban.pkusz.edu.cn/info/1013/2801.htm) and Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I earned my Bachelor's degree in Geographical Information Science from Nanjing Normal University in 2023 under the supervision of Prof. [Linwang Yuan](https://dky.njnu.edu.cn/info/1228/3883.htm) and [Zhaoyuan Yu](https://dky.njnu.edu.cn/info/1228/5207.htm), including an exchange to the Department of Land Surveying and Geo-Informatics of Hong Kong Polytechnic University in 2021.
 
-# Research Interests
-* GIScience
+# Research
 
-* Human mobility
+My research interests lie in the field of Geographical Information Science (GIScience), where I develop spatiotemporal data analytics and machine learning techniques to study and understand spatial processes and urban systems.
 
-* Emerging technologies: GeoAI, explainable AI, and large language models
+## Human Mobility and Spatial Behavior
 
+Developing data-driven approaches (e.g., tensor decomposition) and mechanism-based models (e.g., activity region model) to capture the spatiotemporal regularities of human mobility, analyzing different travel behaviors, and understanding their responses to external disruptions such as extreme weather events.
+
+## GeoAI and Large Language Model
+
+Developing AI- and LLM-based frameworks that explicitly integrate spatiotemporal and contextual information to enhance the modeling of spatiotemporal data and effectively support downstream tasks.
+
+## Urban Function Modeling
+Integrating multi-source heterogeneous urban spatiotemporal data, such as traffic flow and POI datasets, to strengthen modeling capabilities for urban function analysis and related urban tasks.
 
 # Educations
 
