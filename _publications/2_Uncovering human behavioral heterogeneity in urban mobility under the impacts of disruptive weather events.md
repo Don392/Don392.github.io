@@ -1,7 +1,7 @@
 ---
 title: "Uncovering human behavioral heterogeneity in urban mobility under the impacts of disruptive weather events"
 collection: publications
-permalink: /publication/1_Uncovering human behavioral heterogeneity in urban mobility under the impacts of disruptive weather events
+permalink: /publication/2_Uncovering human behavioral heterogeneity in urban mobility under the impacts of disruptive weather events
 excerpt: 'Develop a data-driven tensor-based approach to characterize human movement patterns before and during the 7.20 Zhengzhou’s heavy rainfall in 2021.'
 date: 2024-06-30
 venue: 'International Journal of Geographical Information Science'
