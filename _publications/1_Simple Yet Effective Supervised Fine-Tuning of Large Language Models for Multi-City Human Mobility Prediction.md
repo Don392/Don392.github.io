@@ -1,7 +1,7 @@
 ---
 title: "Simple Yet Effective: Supervised Fine-Tuning of Large Language Models for Multi-City Human Mobility Prediction"
 collection: publications
-permalink: /publication/1_Simple Yet Effective: Supervised Fine-Tuning of Large Language Models for Multi-City Human Mobility Prediction
+permalink: /publication/1_Simple Yet Effective Supervised Fine-Tuning of Large Language Models for Multi-City Human Mobility Prediction
 excerpt: 'Frame trajectory prediction as a sequence-generation task, and fine-tune a Qwen-3 model on trajectories from four metropolitan areas.'
 date: 2025-12-12
 venue: 'Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems'
